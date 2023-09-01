@@ -1,0 +1,17 @@
+h3.title-w3 {
+    font-size: 2rem;
+    position: relative;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+.col-md-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
